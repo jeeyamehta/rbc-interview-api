@@ -1,0 +1,84 @@
+{
+  "food": [
+    {
+      "name": "Burger",
+      "foodType": "Dinner"
+    },
+    {
+      "name": "Lasagna",
+      "foodType": "Dinner"
+    },
+    {
+      "name": "Pasta",
+      "foodType": "dinner"
+    },
+    {
+      "name": "Steak",
+      "foodType": "Dinner"
+    },
+    {
+      "name": "Sushi",
+      "foodType": "Dinner"
+    },
+    {
+      "name": "Chicken",
+      "foodType": "Dinner"
+    },
+    {
+      "name": "Pizza",
+      "foodType": "Dinner"
+    },
+    {
+      "name": "Apple pie",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Ice cream",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Brownie",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Cookie",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Cake",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Creme brulee",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Chocolate",
+      "foodType": "Desert"
+    },
+    {
+      "name": "Salad",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Calamari",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Garlic bread",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Nachos",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Chips and dip",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Fries",
+      "foodType": "Appetizer"
+    }
+  ]
+}
