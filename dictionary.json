@@ -1,32 +1,56 @@
 {
   "food": [
     {
+      "name": "Salad",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Calamari",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Garlic bread",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Nachos",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Chips and dip",
+      "foodType": "Appetizer"
+    },
+    {
+      "name": "Fries",
+      "foodType": "Appetizer"
+    },
+    {
       "name": "Burger",
-      "foodType": "Dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Lasagna",
-      "foodType": "Dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Pasta",
-      "foodType": "dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Steak",
-      "foodType": "Dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Sushi",
-      "foodType": "Dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Chicken",
-      "foodType": "Dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Pizza",
-      "foodType": "Dinner"
+      "foodType": "Main Course"
     },
     {
       "name": "Apple pie",
@@ -55,30 +79,6 @@
     {
       "name": "Chocolate",
       "foodType": "Desert"
-    },
-    {
-      "name": "Salad",
-      "foodType": "Appetizer"
-    },
-    {
-      "name": "Calamari",
-      "foodType": "Appetizer"
-    },
-    {
-      "name": "Garlic bread",
-      "foodType": "Appetizer"
-    },
-    {
-      "name": "Nachos",
-      "foodType": "Appetizer"
-    },
-    {
-      "name": "Chips and dip",
-      "foodType": "Appetizer"
-    },
-    {
-      "name": "Fries",
-      "foodType": "Appetizer"
     }
   ]
 }
